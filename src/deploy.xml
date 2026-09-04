@@ -1,0 +1,8 @@
+<deploy>
+  <objects>
+    <path>~/Objects/*</path>
+  </objects>
+  <files>
+    <path>~/FileCabinet/SuiteScripts/EXP/Shipping Advice Export/SL Shipping Advice Export.js</path>
+  </files>
+</deploy>

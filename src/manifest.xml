@@ -1,0 +1,25 @@
+<manifest projecttype="ACCOUNTCUSTOMIZATION">
+  <projectname>EmailShippingAdviceConfirmed</projectname>
+  <frameworkversion>1.0</frameworkversion>
+  <dependencies>
+    <features>
+      <feature required="true">SERVERSIDESCRIPTING</feature>
+      <feature required="false">MULTILANGUAGE</feature>
+      <feature required="false">EXTREMELIST</feature>
+      <feature required="false">MAILMERGE</feature>
+      <feature required="true">CUSTOMRECORDS</feature>
+      <feature required="false">CREATESUITEBUNDLES</feature>
+      <feature required="false">CUSTOMSEGMENTS</feature>
+    </features>
+    <objects>
+      <object>customrole1038</object>
+      <object>customrole1049</object>
+      <object>customrole1232</object>
+      <object>customrecord_cseg_sale_channel</object>
+      <object>customrole1264</object>
+      <object>customrole1055</object>
+      <object>customrole1087</object>
+      <object>customrole1086</object>
+    </objects>
+  </dependencies>
+</manifest>
